@@ -9,7 +9,7 @@ html {
 }
 
 .page {
-  margin: 133px 30px;
+  margin: auto 0;
   color: #fff;
   font-family: 'Fira Sans Condensed', sans-serif;
   font-size: 18px;
@@ -52,6 +52,7 @@ ol {
   flex-direction: row;
   align-items: flex-end;
   gap: 30px;
+  margin: 233px 30px 133px;
   inline-size: 1140px;
   block-size: 534px;
 }
@@ -78,7 +79,7 @@ ol {
 .content__list {
   position: relative;
   overflow: hidden scroll;
-  block-size: 325px;
+  block-size: 298px;
 }
 
 .content__video-card {
@@ -133,6 +134,7 @@ ol {
   font-style: normal;
   line-height: 94%;
   text-transform: uppercase;
+  margin-bottom: 26px;
 }
 
 .content__accent {
@@ -219,7 +221,7 @@ ol {
 
 input[type='checkbox']:checked + span::before {
   content: '';
-  position:relative;
+  position: relative;
   top: 1px;
   left: 1px;
   width: 15px;

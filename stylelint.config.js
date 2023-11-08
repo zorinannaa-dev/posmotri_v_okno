@@ -26,5 +26,5 @@ module.exports = {
     'at-rule-empty-line-before': 'always',
     'selector-class-pattern': null,
     'font-family-name-quotes': 'always-where-recommended',
-  }
-}
+  },
+};
