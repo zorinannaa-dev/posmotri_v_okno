@@ -9,7 +9,8 @@ html {
 }
 
 .page {
-  margin: auto 0;
+  border: #1b1919 solid 1px;
+  margin: auto;
   color: #fff;
   font-family: 'Fira Sans Condensed', sans-serif;
   font-size: 18px;
@@ -52,7 +53,7 @@ ol {
   flex-direction: row;
   align-items: flex-end;
   gap: 30px;
-  margin: 233px 30px;
+  margin: 133px auto;
   inline-size: 1140px;
   block-size: 534px;
 }
