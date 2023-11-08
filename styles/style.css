@@ -52,7 +52,7 @@ ol {
   flex-direction: row;
   align-items: flex-end;
   gap: 30px;
-  margin: 233px 30px 133px;
+  margin: 233px 30px;
   inline-size: 1140px;
   block-size: 534px;
 }
