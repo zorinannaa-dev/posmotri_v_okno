@@ -186,7 +186,7 @@ ol {
   display: flex;
   flex-direction: row;
   width: fit-content;
-  color: rgb(255, 255, 255);
+  color: #fff;
   font-family: inherit;
   cursor: pointer;
 }
